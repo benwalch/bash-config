@@ -1,6 +1,5 @@
-# GIT   have a look at the readme how to get these files
-source ~/.bash-config/git-completion.bash
-source ~/.bash-config/git-prompt.sh
+# GIT   
+source ~/.bash-config/git.bash
 
 # Variables #
 source ~/.bash-config/variables.bash

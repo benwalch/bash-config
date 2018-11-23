@@ -1,4 +1,4 @@
-# author: benwalch https://www.github.com/benwalch
+# author: benwalch https://github.com/benwalch
 
 # colors
 BLACK="\[\033[0;30m\]"

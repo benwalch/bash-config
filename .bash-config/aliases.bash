@@ -1,4 +1,4 @@
-# author: benwalch https://www.github.com/benwalch
+# author: benwalch https://github.com/benwalch
 
 # directory helpers #
 alias ll='ls -al'
@@ -16,3 +16,6 @@ alias timestamp='date +%s'
 
 # networking #
 alias myip='curl ifconfig.me'
+
+# misc
+alias afk='/System/Library/CoreServices/Menu\ Extras/user.menu/Contents/Resources/CGSession -suspend'
