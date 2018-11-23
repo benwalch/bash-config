@@ -1,0 +1,13 @@
+# ignore everything
+*
+
+# except these files ...
+!.gitignore
+!.bash_profile
+
+# and this folder with following files
+!/.bash-config/
+!/.bash-config/aliases.bash
+!/.bash-config/variables.bash
+!/.bash-config/env.bash
+!/.bash-config/functions.bash
